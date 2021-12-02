@@ -1,0 +1,21 @@
+.form-label {
+    color: white;
+    font-size: 2rem;
+    text-align: left;
+}
+
+h1 {
+    color: white;
+}
+
+#nombrehot {
+    font-size: 2rem;
+}
+
+.form-group {
+    margin: 1rem;
+}
+
+.btn-success {
+    margin: 1rem;
+}
